@@ -1,4 +1,4 @@
-a = "Jan"
-b = "Zero"
+a = []
 
-print(a < b)
+if len(a) > 0:
+    print(a)
